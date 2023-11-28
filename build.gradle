@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'Notz'
-version = '1.0.0'
+version = '1.0.1'
 
 repositories {
     mavenCentral()
@@ -48,6 +48,6 @@ processResources {
 }
 
 jar {
-    archiveFileName = "NekoClear-1.0.0.jar"
+    archiveFileName = "NekoClear-1.0.1.jar"
     destinationDirectory.set(file('C:\\Users\\lucas\\OneDrive\\Desktop\\mine server 1.8.9\\plugins'))
 }
