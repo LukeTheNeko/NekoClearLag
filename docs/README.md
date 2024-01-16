@@ -9,7 +9,7 @@
 
 **Permissions:**
 
-- `NekoClear.commands` - Permission required to execute the command in Minecraft.
+- `NekoClearLag.commands` - Permission required to execute the command in Minecraft.
 
 **Commands**
 

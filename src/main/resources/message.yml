@@ -1,8 +1,0 @@
-minutes-msg: "&6Cleaning the floor in {count} minutes"
-1min-msg: "&6Cleaning the floor in 1 minute"
-clear-msg: "&aSuccessfully cleared {count} items from the floor!"
-no-permission: "&c&lYou do not have permission to use this command!"
-clear-off: "&cThe cleaner timer has been deactivated"
-clear-on: "&aThe cleaner timer has been activated"
-alert-clear: "&6Cleaning the floor in {count} seconds"
-1sec-alert-clear: "&6Cleaning the floor in 1 second"

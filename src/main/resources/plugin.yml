@@ -1,9 +1,9 @@
-name: NekoClear
+name: NekoClearLag
 version: '${version}'
 main: NekoClear.Main
 commands:
   clear:
-    usage: use /clear
+    usage: use /clear or /clear clear
 permissions:
   NekoClear.commands:
     default: false

@@ -9,7 +9,7 @@
 
 **Permissões:**
 
-- `# NekoClear.commands` - Permissão para usar comandos.
+- `# NekoClearLag.commands` - Permissão para usar comandos.
 
 **Comandos**
 
