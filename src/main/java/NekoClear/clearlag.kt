@@ -12,7 +12,7 @@ import org.bukkit.inventory.ItemStack
 import org.bukkit.scheduler.BukkitRunnable
 import java.util.function.Consumer
 
-class clear : CommandExecutor {
+class clearlag : CommandExecutor {
     override fun onCommand(sender: CommandSender, command: Command, label: String, args: Array<String>): Boolean {
         if (sender is Player) {
             val p = sender
