@@ -25,8 +25,8 @@
 <h2>Commands</h2>
 
 <ul>
-  <li><code>/clear clear</code>Turn ON or OFF automatic entities cleaning</li>
-  <li><code>/clear</code>Clear the entities instantly</li>
+  <li><code>/Clearlag</code>Turn ON or OFF automatic entities cleaning</li>
+  <li><code>/Clearlag clear</code>Clear the entities instantly</li>
 </ul>
 
 <h2>Tested Versions</h2>

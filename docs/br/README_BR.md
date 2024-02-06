@@ -25,8 +25,8 @@
 <h2>Commands</h2>
 
 <ul>
-  <li><code>/clear clear</code>Ativa ou desativa a limpeza automatica</li>
-  <li><code>/clear</code>Limpa os items instantaneamente
+  <li><code>/Clearlag</code>Ativa ou desativa a limpeza automatica</li>
+  <li><code>/Clearlag clear</code>Limpa os items instantaneamente
 </li>
 </ul>
 
