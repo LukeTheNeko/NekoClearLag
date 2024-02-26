@@ -15,7 +15,7 @@ class Main : JavaPlugin() {
     &f║║║║╣ ╠╩╗║ ║&5║  ║  ║╣ ╠═╣╠╦╝
     &f╝╚╝╚═╝╩ ╩╚═╝&5╚═╝╩═╝╚═╝╩ ╩╩╚═
     
-    &2v1.2.2 by LukeTheNeko
+    &2v1.2.3 by LukeTheNeko
     &2https://github.com/LukeTheNeko/NekoClearLag
     
     """.trimIndent()))

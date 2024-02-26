@@ -1,5 +1,5 @@
 name: NekoClearLag
-version: '${version}'
+version: '1.2.3'
 main: NekoClear.Main
 commands:
   clearlag:
